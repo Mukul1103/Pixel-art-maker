@@ -4,5 +4,5 @@
 
 ## Instructions
 
-To start,  download repository and open index.html.
+To start,  download repository and open index.html in any browser.
 
