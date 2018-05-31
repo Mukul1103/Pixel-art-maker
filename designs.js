@@ -13,6 +13,7 @@ submit.click(function(event) {
  * @param {Number} height
  * @param {Number} width
  */
+
 function makeGrid() {
     var pixelCanvas, position, gridHeight, gridWidth, row;
     pixelCanvas = $('#pixel_canvas');
